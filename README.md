@@ -1,1 +1,1 @@
-# MD25
+# MD25: Sandra uzdevumu sērija (React)
